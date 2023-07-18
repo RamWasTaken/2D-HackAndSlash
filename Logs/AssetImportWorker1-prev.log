@@ -1,0 +1,1123 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.16f1 (049d6eca3c44) revision 302446'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Home Single Language; OS build 22621.1848; Version 2009; 64bit' Language: 'en' Physical Memory: 3948 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.3.16f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker1
+-projectPath
+C:/Users/91797/OneDrive/Desktop/GAME/2D Hack and Slash
+-logFile
+Logs/AssetImportWorker1.log
+-srvPort
+49809
+Successfully changed project path to: C:/Users/91797/OneDrive/Desktop/GAME/2D Hack and Slash
+C:/Users/91797/OneDrive/Desktop/GAME/2D Hack and Slash
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 61.28 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.16f1 (049d6eca3c44)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.16f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/91797/OneDrive/Desktop/GAME/2D Hack and Slash/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Intel(R) UHD Graphics (ID=0x9b41)
+    Vendor:   
+    VRAM:     1974 MB
+    Driver:   30.0.100.9864
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.16f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.16f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.16f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56304
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.16f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.16f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.002417 seconds.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 48.54 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.244 seconds
+Domain Reload Profiling:
+	ReloadAssembly (2244ms)
+		BeginReloadAssembly (63ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (0ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (1ms)
+		EndReloadAssembly (480ms)
+			LoadAssemblies (61ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (166ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (36ms)
+			SetupLoadedEditorAssemblies (195ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (6ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (49ms)
+				BeforeProcessingInitializeOnLoad (20ms)
+				ProcessInitializeOnLoadAttributes (87ms)
+				ProcessInitializeOnLoadMethodAttributes (33ms)
+				AfterProcessingInitializeOnLoad (0ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (0ms)
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.008981 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 47.32 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  5.439 seconds
+Domain Reload Profiling:
+	ReloadAssembly (5448ms)
+		BeginReloadAssembly (162ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (5ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (21ms)
+		EndReloadAssembly (5195ms)
+			LoadAssemblies (3738ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (547ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (68ms)
+			SetupLoadedEditorAssemblies (675ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (6ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (47ms)
+				BeforeProcessingInitializeOnLoad (96ms)
+				ProcessInitializeOnLoadAttributes (485ms)
+				ProcessInitializeOnLoadMethodAttributes (29ms)
+				AfterProcessingInitializeOnLoad (11ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (10ms)
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.12 seconds
+Refreshing native plugins compatible for Editor in 0.60 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2098 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 93.3 MB.
+System memory in use after: 93.4 MB.
+
+Unloading 28 unused Assets to reduce memory usage. Loaded Objects now: 2535.
+Total: 8.770600 ms (FindLiveObjects: 0.235200 ms CreateObjectMapping: 0.135500 ms MarkObjects: 7.941000 ms  DeleteObjects: 0.457400 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  path: Assets/PixelPack03_Free/Tileset.png
+  artifactKey: Guid(7e284552364bc9044ba7f87f46c179ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PixelPack03_Free/Tileset.png using Guid(7e284552364bc9044ba7f87f46c179ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2dba489120905cccb199a513a9fcda25') in 0.455937 seconds 
+  Import took 0.461700 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 178.807914 seconds.
+  path: Assets/PixelPack03_Free/Tileset_0.asset
+  artifactKey: Guid(7d038ec44d323d84187bb7a93d28f06a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PixelPack03_Free/Tileset_0.asset using Guid(7d038ec44d323d84187bb7a93d28f06a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4050b01db718acf7c1a6457b13c43271') in 0.075657 seconds 
+  Import took 0.087159 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000504 seconds.
+  path: Assets/PixelPack03_Free/Tileset_58.asset
+  artifactKey: Guid(b8e7240a50fcaf2409fa1e6f8f4aea76) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PixelPack03_Free/Tileset_58.asset using Guid(b8e7240a50fcaf2409fa1e6f8f4aea76) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '83cbb07e1ac574348d4cb0e20282758c') in 0.025844 seconds 
+  Import took 0.035228 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000407 seconds.
+  path: Assets/PixelPack03_Free/Tileset_42.asset
+  artifactKey: Guid(82eb3678396d76841b9ddd5e44569c9a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PixelPack03_Free/Tileset_42.asset using Guid(82eb3678396d76841b9ddd5e44569c9a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e6efba066cdece1ae63c9e50a7508fd5') in 0.023569 seconds 
+  Import took 0.032529 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000244 seconds.
+  path: Assets/PixelPack03_Free/Tileset_65.asset
+  artifactKey: Guid(91f8a4651cba0aa4297029101d69cdf5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PixelPack03_Free/Tileset_65.asset using Guid(91f8a4651cba0aa4297029101d69cdf5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ebec4c684fb4f2eb85e88699006b0c88') in 0.049066 seconds 
+  Import took 0.054156 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000347 seconds.
+  path: Assets/PixelPack03_Free/Tileset_28.asset
+  artifactKey: Guid(9fc45d63224c0284c9c8297303f748c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PixelPack03_Free/Tileset_28.asset using Guid(9fc45d63224c0284c9c8297303f748c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ad3245cc17e761c9f9b488dd5c89b966') in 0.051980 seconds 
+  Import took 0.057428 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000378 seconds.
+  path: Assets/PixelPack03_Free/Tileset_30.asset
+  artifactKey: Guid(bddcac49c151c0e46a089585033ce6ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PixelPack03_Free/Tileset_30.asset using Guid(bddcac49c151c0e46a089585033ce6ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a0fa2059c9743bda4f67e65874b70f18') in 0.074503 seconds 
+  Import took 0.086563 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000905 seconds.
+  path: Assets/PixelPack03_Free/Tileset_46.asset
+  artifactKey: Guid(c3fcb6db3a49c794b919eb57f59cfa81) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PixelPack03_Free/Tileset_46.asset using Guid(c3fcb6db3a49c794b919eb57f59cfa81) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '42e1b0c875d068fb5b32989d8f2a98c3') in 0.034496 seconds 
+  Import took 0.041170 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000647 seconds.
+  path: Assets/PixelPack03_Free/Tileset_60.asset
+  artifactKey: Guid(cda75f0777dc91347bb2af9da0083728) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PixelPack03_Free/Tileset_60.asset using Guid(cda75f0777dc91347bb2af9da0083728) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '079c2e9cdfd6a48f628ff8de56b3ee8d') in 0.040961 seconds 
+  Import took 0.055325 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001021 seconds.
+  path: Assets/PixelPack03_Free/Tileset_70.asset
+  artifactKey: Guid(8b25dab9515acfd40935f79f56fe7cac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PixelPack03_Free/Tileset_70.asset using Guid(8b25dab9515acfd40935f79f56fe7cac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '87e45465bbad3dc8a90ffa5775813944') in 0.028295 seconds 
+  Import took 0.036168 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000307 seconds.
+  path: Assets/PixelPack03_Free/Tileset_24.asset
+  artifactKey: Guid(9b3406f55816b37459981609b3bcf0ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PixelPack03_Free/Tileset_24.asset using Guid(9b3406f55816b37459981609b3bcf0ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b86cc0adc301028db54fbb0f6ced309c') in 0.027602 seconds 
+  Import took 0.033997 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000212 seconds.
+  path: Assets/PixelPack03_Free/Tileset_22.asset
+  artifactKey: Guid(772644e6dd482634fae1c830de6ed744) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PixelPack03_Free/Tileset_22.asset using Guid(772644e6dd482634fae1c830de6ed744) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fdf96f80cb336fa4877fb556bfff117c') in 0.036793 seconds 
+  Import took 0.044773 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001909 seconds.
+  path: Assets/PixelPack03_Free/Tileset_67.asset
+  artifactKey: Guid(66e2c49c3bdcd2e4285929c54c100427) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PixelPack03_Free/Tileset_67.asset using Guid(66e2c49c3bdcd2e4285929c54c100427) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '40da5c91b88e3eded7ba34382faab4bb') in 0.031713 seconds 
+  Import took 0.037790 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000844 seconds.
+  path: Assets/PixelPack03_Free/Tileset_18.asset
+  artifactKey: Guid(4927b06039283564bbdc5dbb909fbdf7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PixelPack03_Free/Tileset_18.asset using Guid(4927b06039283564bbdc5dbb909fbdf7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3e11a228a1482063339d36221f7b4814') in 0.034137 seconds 
+  Import took 0.043189 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000376 seconds.
+  path: Assets/PixelPack03_Free/Tileset_51.asset
+  artifactKey: Guid(25922598abe113148b5a402e287c6bb6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PixelPack03_Free/Tileset_51.asset using Guid(25922598abe113148b5a402e287c6bb6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '80eeef253bd22f105e74aa1739ae6fbe') in 0.035229 seconds 
+  Import took 0.045221 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000909 seconds.
+  path: Assets/PixelPack03_Free/Tileset_53.asset
+  artifactKey: Guid(0983e9b5b77b2a24cb0d5714d7a892fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PixelPack03_Free/Tileset_53.asset using Guid(0983e9b5b77b2a24cb0d5714d7a892fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2795460e0c1bad94fe21e4a1c34cda98') in 0.036621 seconds 
+  Import took 0.042999 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000423 seconds.
+  path: Assets/PixelPack03_Free/Tileset_29.asset
+  artifactKey: Guid(bce0031496f44074597289e0264c907f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PixelPack03_Free/Tileset_29.asset using Guid(bce0031496f44074597289e0264c907f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f2bb80e5e5fc3938c3ba98549353dfd7') in 0.056502 seconds 
+  Import took 0.072916 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000321 seconds.
+  path: Assets/PixelPack03_Free/Tileset_71.asset
+  artifactKey: Guid(2c3ed582a38f2a144849ab9d2b31deb7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PixelPack03_Free/Tileset_71.asset using Guid(2c3ed582a38f2a144849ab9d2b31deb7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '316d11f5b93126f22f0f9d6126ea0eaf') in 0.086357 seconds 
+  Import took 0.094080 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000641 seconds.
+  path: Assets/PixelPack03_Free/Tileset_5.asset
+  artifactKey: Guid(a57b2c5eade33054f8da5dae95f8510f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PixelPack03_Free/Tileset_5.asset using Guid(a57b2c5eade33054f8da5dae95f8510f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cbcf488b37201fea57e65818b5309d04') in 0.055044 seconds 
+  Import took 0.063128 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000321 seconds.
+  path: Assets/PixelPack03_Free/Tileset_7.asset
+  artifactKey: Guid(5681fb7896f46b443b4e025b48fcb17f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PixelPack03_Free/Tileset_7.asset using Guid(5681fb7896f46b443b4e025b48fcb17f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fd5804303999b0d84227d21506050f56') in 0.055326 seconds 
+  Import took 0.065571 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000309 seconds.
+  path: Assets/PixelPack03_Free/Tileset_16.asset
+  artifactKey: Guid(47faf78fd5ae34447a4050aef49c199d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PixelPack03_Free/Tileset_16.asset using Guid(47faf78fd5ae34447a4050aef49c199d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6cede45f654f81b7023f9ef5e50a7e56') in 0.052017 seconds 
+  Import took 0.061485 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001718 seconds.
+  path: Assets/PixelPack03_Free/Tileset_27.asset
+  artifactKey: Guid(605305c3b66dad447814a7f8ec54ac60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PixelPack03_Free/Tileset_27.asset using Guid(605305c3b66dad447814a7f8ec54ac60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dc4bcba46fa07503f715f248539c8393') in 0.050805 seconds 
+  Import took 0.061153 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000319 seconds.
+  path: Assets/PixelPack03_Free/Tileset_43.asset
+  artifactKey: Guid(22b498d12ca30c9478f23f3e0d11f105) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PixelPack03_Free/Tileset_43.asset using Guid(22b498d12ca30c9478f23f3e0d11f105) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '942f09043e21f4267e084b1cbabc036c') in 0.050289 seconds 
+  Import took 0.058055 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000350 seconds.
+  path: Assets/PixelPack03_Free/Tileset_48.asset
+  artifactKey: Guid(c2df08fa3b3012140bcde099def70ad5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PixelPack03_Free/Tileset_48.asset using Guid(c2df08fa3b3012140bcde099def70ad5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '40041b3b2a936d125c11c931e3d0a423') in 0.063689 seconds 
+  Import took 0.079715 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000102 seconds.
+  path: Assets/PixelPack03_Free/Tileset_8.asset
+  artifactKey: Guid(9b7c7917e8a6fc647b5789b353eec0f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PixelPack03_Free/Tileset_8.asset using Guid(9b7c7917e8a6fc647b5789b353eec0f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd0d5e8cebb4c79daeebf707206ac2953') in 0.060239 seconds 
+  Import took 0.067348 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000643 seconds.
+  path: Assets/PixelPack03_Free/Tileset_39.asset
+  artifactKey: Guid(db5fe3932c060c146bcf7e576a81a9bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PixelPack03_Free/Tileset_39.asset using Guid(db5fe3932c060c146bcf7e576a81a9bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e1931565f9f2dfec88eb36f049d844c1') in 0.037723 seconds 
+  Import took 0.045743 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000272 seconds.
+  path: Assets/PixelPack03_Free/Tileset_49.asset
+  artifactKey: Guid(da3d43428babdbd40901fcff9b96dbbb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PixelPack03_Free/Tileset_49.asset using Guid(da3d43428babdbd40901fcff9b96dbbb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c1c49c66b2414a05636b8644529232ab') in 0.037545 seconds 
+  Import took 0.043508 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000283 seconds.
+  path: Assets/PixelPack03_Free/Tileset_2.asset
+  artifactKey: Guid(2ec02757457785641ae783a55decf4fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PixelPack03_Free/Tileset_2.asset using Guid(2ec02757457785641ae783a55decf4fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ae630a1c722004f29195cf8ff9577e8d') in 0.039532 seconds 
+  Import took 0.045939 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000275 seconds.
+  path: Assets/PixelPack03_Free/Tileset_10.asset
+  artifactKey: Guid(5b22c68adc8f5494f80f1d158ad64d43) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PixelPack03_Free/Tileset_10.asset using Guid(5b22c68adc8f5494f80f1d158ad64d43) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'afaaf491d32d815cb04d46df7a4d3686') in 0.034375 seconds 
+  Import took 0.042729 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000256 seconds.
+  path: Assets/PixelPack03_Free/Tileset_59.asset
+  artifactKey: Guid(7d0c60829dd27f6468539ea6bbe7ea32) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PixelPack03_Free/Tileset_59.asset using Guid(7d0c60829dd27f6468539ea6bbe7ea32) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ae36fb4eaef81300fc3a67016fa3603b') in 0.034499 seconds 
+  Import took 0.040369 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000228 seconds.
+  path: Assets/PixelPack03_Free/Tileset_37.asset
+  artifactKey: Guid(7633a6ca5b2efe640beea385fb852809) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PixelPack03_Free/Tileset_37.asset using Guid(7633a6ca5b2efe640beea385fb852809) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7b65999d8f9134f43d98263e9a48e9df') in 0.040683 seconds 
+  Import took 0.048237 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000338 seconds.
+  path: Assets/PixelPack03_Free/Tileset_66.asset
+  artifactKey: Guid(ef7bbebe968a6464eb05850c2f40baa0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PixelPack03_Free/Tileset_66.asset using Guid(ef7bbebe968a6464eb05850c2f40baa0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '637502e94ff14d5727957b0cfc542c41') in 0.035547 seconds 
+  Import took 0.052587 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001442 seconds.
+  path: Assets/PixelPack03_Free/Tileset_15.asset
+  artifactKey: Guid(79e7ad09a69d65a4fafec8485df44d41) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PixelPack03_Free/Tileset_15.asset using Guid(79e7ad09a69d65a4fafec8485df44d41) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '23c7b2c92930682131c80fd9878f57ca') in 0.130235 seconds 
+  Import took 0.137018 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000079 seconds.
+  path: Assets/PixelPack03_Free/Tileset_45.asset
+  artifactKey: Guid(e51a8ad0ab5eee945b4fd21eb51e4685) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PixelPack03_Free/Tileset_45.asset using Guid(e51a8ad0ab5eee945b4fd21eb51e4685) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '13b2e91b49171de75f7de351f91d921f') in 0.069866 seconds 
+  Import took 0.149637 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000669 seconds.
+  path: Assets/PixelPack03_Free/Tileset_36.asset
+  artifactKey: Guid(7cdc8c6dc75973a44ae700b8e78a28b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PixelPack03_Free/Tileset_36.asset using Guid(7cdc8c6dc75973a44ae700b8e78a28b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '41a79304979ca87a9fa6247b1c31c89c') in 0.090559 seconds 
+  Import took 0.102014 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000323 seconds.
+  path: Assets/PixelPack03_Free/Tileset_56.asset
+  artifactKey: Guid(ed64b98fe92583f4394d7f09308bbc99) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PixelPack03_Free/Tileset_56.asset using Guid(ed64b98fe92583f4394d7f09308bbc99) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '77a4a447398af493af76fe9e1beb2fe8') in 0.048725 seconds 
+  Import took 0.055204 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000299 seconds.
+  path: Assets/PixelPack03_Free/Tileset_32.asset
+  artifactKey: Guid(233b137983a3be44c80a842ba551ca02) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PixelPack03_Free/Tileset_32.asset using Guid(233b137983a3be44c80a842ba551ca02) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a0f326f09bed3b8c36388165ceda82a7') in 0.084452 seconds 
+  Import took 0.104728 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000267 seconds.
+  path: Assets/PixelPack03_Free/Tileset_33.asset
+  artifactKey: Guid(d460d4593ffe41e4b871436b0d0c1d51) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PixelPack03_Free/Tileset_33.asset using Guid(d460d4593ffe41e4b871436b0d0c1d51) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7f4bc8c57446b378511dded280882d31') in 0.076985 seconds 
+  Import took 0.082265 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000270 seconds.
+  path: Assets/PixelPack03_Free/Tileset_20.asset
+  artifactKey: Guid(8b998f36bd642244dabf6b741cf0c5c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PixelPack03_Free/Tileset_20.asset using Guid(8b998f36bd642244dabf6b741cf0c5c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3f8379666f02f05603bc4b0dfe6aaf69') in 0.048127 seconds 
+  Import took 0.057663 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000484 seconds.
+  path: Assets/PixelPack03_Free/Tileset_57.asset
+  artifactKey: Guid(aa7fe9bec8604234a8761c0f33502a5b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PixelPack03_Free/Tileset_57.asset using Guid(aa7fe9bec8604234a8761c0f33502a5b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1b2cfbb02ba051dee7b83cb4754bede7') in 0.045350 seconds 
+  Import took 0.057876 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000247 seconds.
+  path: Assets/PixelPack03_Free/Tileset_3.asset
+  artifactKey: Guid(ca7d3c49b4b55a7468466d01d67531c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PixelPack03_Free/Tileset_3.asset using Guid(ca7d3c49b4b55a7468466d01d67531c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e66e7da17f57704f12e73677df0c925d') in 0.110222 seconds 
+  Import took 0.124635 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000345 seconds.
+  path: Assets/PixelPack03_Free/Tileset_4.asset
+  artifactKey: Guid(5c1f95d91c4aff945a1deb29e4806032) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PixelPack03_Free/Tileset_4.asset using Guid(5c1f95d91c4aff945a1deb29e4806032) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e39c67cdad7b61c3a5da75d8191b2655') in 0.110364 seconds 
+  Import took 0.127959 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000403 seconds.
+  path: Assets/PixelPack03_Free/Tileset_12.asset
+  artifactKey: Guid(db9f2af786817d341bcdd369cf195964) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PixelPack03_Free/Tileset_12.asset using Guid(db9f2af786817d341bcdd369cf195964) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fc088eca5aa4d58557c6a665528ef3ec') in 0.068190 seconds 
+  Import took 0.074723 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001177 seconds.
+  path: Assets/PixelPack03_Free/Tileset_14.asset
+  artifactKey: Guid(bbe7b2066024ba643a94e65a808111d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PixelPack03_Free/Tileset_14.asset using Guid(bbe7b2066024ba643a94e65a808111d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '38eef300c1621f420f8e0055283b43a2') in 0.051832 seconds 
+  Import took 0.077312 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000372 seconds.
+  path: Assets/PixelPack03_Free/Tileset_40.asset
+  artifactKey: Guid(a33bba30f928b424785052d7ff4ac1a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PixelPack03_Free/Tileset_40.asset using Guid(a33bba30f928b424785052d7ff4ac1a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6163f4f1f445549f02693685e7936608') in 0.063912 seconds 
+  Import took 0.076968 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000344 seconds.
+  path: Assets/PixelPack03_Free/Tileset_35.asset
+  artifactKey: Guid(a391ff2fa4f2c1a4f9dbd50114bb8b5d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PixelPack03_Free/Tileset_35.asset using Guid(a391ff2fa4f2c1a4f9dbd50114bb8b5d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aeb3c6d46400284d36604e5501a8f033') in 0.051265 seconds 
+  Import took 0.073524 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000362 seconds.
+  path: Assets/PixelPack03_Free/Tileset_9.asset
+  artifactKey: Guid(16640e243829d8c4ea1177d21df2ea16) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PixelPack03_Free/Tileset_9.asset using Guid(16640e243829d8c4ea1177d21df2ea16) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5e6f56162672419d32b116c619a6f9a1') in 0.063638 seconds 
+  Import took 0.079101 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000510 seconds.
+  path: Assets/PixelPack03_Free/Tileset_17.asset
+  artifactKey: Guid(15385fd60b4c19e49842432a30d5b5a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PixelPack03_Free/Tileset_17.asset using Guid(15385fd60b4c19e49842432a30d5b5a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'be89257244a3267de623ac7f7da59a3b') in 0.051441 seconds 
+  Import took 0.065785 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000363 seconds.
+  path: Assets/PixelPack03_Free/Tileset_55.asset
+  artifactKey: Guid(c4f633029363cad4392db4fe7383aeb0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PixelPack03_Free/Tileset_55.asset using Guid(c4f633029363cad4392db4fe7383aeb0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7b87e9281b799e9b992feafb34705bf7') in 0.055124 seconds 
+  Import took 0.071422 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001158 seconds.
+  path: Assets/PixelPack03_Free/Tileset_61.asset
+  artifactKey: Guid(1cfdb15b6adbb9342b34329cce84cda8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PixelPack03_Free/Tileset_61.asset using Guid(1cfdb15b6adbb9342b34329cce84cda8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '42216ac1aeea012832a79177f2c6d3ea') in 0.046587 seconds 
+  Import took 0.059304 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001244 seconds.
+  path: Assets/PixelPack03_Free/Tileset_25.asset
+  artifactKey: Guid(d7ec277d3050fcd43975797b454b07f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PixelPack03_Free/Tileset_25.asset using Guid(d7ec277d3050fcd43975797b454b07f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a1578fe0f770cda91ffac1704beb18d2') in 0.056525 seconds 
+  Import took 0.066894 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000237 seconds.
+  path: Assets/PixelPack03_Free/Tileset_50.asset
+  artifactKey: Guid(049d07e70c519924f9f3b27b247c97f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PixelPack03_Free/Tileset_50.asset using Guid(049d07e70c519924f9f3b27b247c97f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '123079b43e28e662c51ec17509351ade') in 0.029698 seconds 
+  Import took 0.035344 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000236 seconds.
+  path: Assets/PixelPack03_Free/Tileset_26.asset
+  artifactKey: Guid(3f213e9a1c5c2914b8d24c0188dfd551) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PixelPack03_Free/Tileset_26.asset using Guid(3f213e9a1c5c2914b8d24c0188dfd551) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8789c28592da08690556fda48ea897f7') in 0.033420 seconds 
+  Import took 0.044579 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001370 seconds.
+  path: Assets/PixelPack03_Free/Tileset_31.asset
+  artifactKey: Guid(2cf326cdcde4e2943ab12d22a4e5e54c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PixelPack03_Free/Tileset_31.asset using Guid(2cf326cdcde4e2943ab12d22a4e5e54c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e8d5d9a47eb3378747a9aeb377aea59e') in 0.038185 seconds 
+  Import took 0.047858 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000260 seconds.
+  path: Assets/PixelPack03_Free/Tileset_52.asset
+  artifactKey: Guid(2308e43fa1f7cd042aa4f364102037d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PixelPack03_Free/Tileset_52.asset using Guid(2308e43fa1f7cd042aa4f364102037d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8f52f076cec702b508c768acfcf7240d') in 0.032689 seconds 
+  Import took 0.038180 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000500 seconds.
+  path: Assets/PixelPack03_Free/Tileset_47.asset
+  artifactKey: Guid(c57f63d474b824346840f5fd97579eaf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PixelPack03_Free/Tileset_47.asset using Guid(c57f63d474b824346840f5fd97579eaf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '10ce7589c11141dcfe90d4e409548653') in 0.038843 seconds 
+  Import took 0.044862 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000337 seconds.
+  path: Assets/PixelPack03_Free/Tileset_1.asset
+  artifactKey: Guid(85820a1e9178b1841a10954a1cbcb6b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PixelPack03_Free/Tileset_1.asset using Guid(85820a1e9178b1841a10954a1cbcb6b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7f691c8d882017dab080f5202d55eb39') in 0.035234 seconds 
+  Import took 0.043924 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000357 seconds.
+  path: Assets/PixelPack03_Free/Tileset_11.asset
+  artifactKey: Guid(33f028b7b496cbf4d8181f76b05a0006) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PixelPack03_Free/Tileset_11.asset using Guid(33f028b7b496cbf4d8181f76b05a0006) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '42b73fd207765e59ea3918da66b8dcc7') in 0.057005 seconds 
+  Import took 0.065960 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000398 seconds.
+  path: Assets/PixelPack03_Free/Tileset_64.asset
+  artifactKey: Guid(aeb9a2f1fe6d2474ba90cd584c2d06fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PixelPack03_Free/Tileset_64.asset using Guid(aeb9a2f1fe6d2474ba90cd584c2d06fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dea61e1bb38fb31204b53e782415739d') in 0.051932 seconds 
+  Import took 0.071621 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000357 seconds.
+  path: Assets/PixelPack03_Free/Tileset_21.asset
+  artifactKey: Guid(1d8b57ae9f342484583417821b2cebe8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PixelPack03_Free/Tileset_21.asset using Guid(1d8b57ae9f342484583417821b2cebe8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7901fe940471dd80666805d65eb3eee6') in 0.047366 seconds 
+  Import took 0.054662 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001050 seconds.
+  path: Assets/PixelPack03_Free/Tileset_62.asset
+  artifactKey: Guid(db266fb24c047ea4e8532b3404bc618c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PixelPack03_Free/Tileset_62.asset using Guid(db266fb24c047ea4e8532b3404bc618c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f05a6a08e5915cd9c8a17c72f85d5e7d') in 0.051049 seconds 
+  Import took 0.062385 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000420 seconds.
+  path: Assets/PixelPack03_Free/Tileset_41.asset
+  artifactKey: Guid(6e38fd0f1e3eea64e99768936a05ff35) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PixelPack03_Free/Tileset_41.asset using Guid(6e38fd0f1e3eea64e99768936a05ff35) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '77d974fb9409cb69d26f40fbcce9b6f8') in 0.056798 seconds 
+  Import took 0.071783 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000416 seconds.
+  path: Assets/PixelPack03_Free/Tileset_34.asset
+  artifactKey: Guid(3a65a58473919234b91cef4ee6cc5748) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PixelPack03_Free/Tileset_34.asset using Guid(3a65a58473919234b91cef4ee6cc5748) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3449c12dbe1d5c7eea3e8ab22bb7966a') in 0.062254 seconds 
+  Import took 0.071047 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000275 seconds.
+  path: Assets/PixelPack03_Free/Tileset_54.asset
+  artifactKey: Guid(5f36c5e8dd2370e4294eaa846c2f8999) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PixelPack03_Free/Tileset_54.asset using Guid(5f36c5e8dd2370e4294eaa846c2f8999) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '315e1a79a70a45daaa9a71026d52799e') in 0.064440 seconds 
+  Import took 0.070964 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000293 seconds.
+  path: Assets/PixelPack03_Free/Tileset_6.asset
+  artifactKey: Guid(096928eb528b1aa4782183ad3f1c964f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PixelPack03_Free/Tileset_6.asset using Guid(096928eb528b1aa4782183ad3f1c964f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '17ceba97e1298827bfcf25ce446ec7f0') in 0.061362 seconds 
+  Import took 0.075795 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000350 seconds.
+  path: Assets/PixelPack03_Free/Tileset_38.asset
+  artifactKey: Guid(2798fb9c83127254d9f12f8c8b0c8a55) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PixelPack03_Free/Tileset_38.asset using Guid(2798fb9c83127254d9f12f8c8b0c8a55) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f6a398d2062405842947a0b93aaa2bfc') in 0.052522 seconds 
+  Import took 0.066090 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000222 seconds.
+  path: Assets/PixelPack03_Free/Tileset_44.asset
+  artifactKey: Guid(09458b98479a3e1488713d1f19975194) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PixelPack03_Free/Tileset_44.asset using Guid(09458b98479a3e1488713d1f19975194) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '961ac1142fab2d026b43d5484afea5e6') in 0.052300 seconds 
+  Import took 0.060212 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000421 seconds.
+  path: Assets/PixelPack03_Free/Tileset_68.asset
+  artifactKey: Guid(6c345811e8f071c4f838e53d0d654073) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PixelPack03_Free/Tileset_68.asset using Guid(6c345811e8f071c4f838e53d0d654073) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0f500541f0f66bac400d3206229b2435') in 0.055722 seconds 
+  Import took 0.072511 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000312 seconds.
+  path: Assets/PixelPack03_Free/Tileset_69.asset
+  artifactKey: Guid(e13985350bad78f45b339b5af8bb5fd3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PixelPack03_Free/Tileset_69.asset using Guid(e13985350bad78f45b339b5af8bb5fd3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '98c8d879e0b845e5e0beeb19bbb212d8') in 0.038791 seconds 
+  Import took 0.046733 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000260 seconds.
+  path: Assets/PixelPack03_Free/Tileset_63.asset
+  artifactKey: Guid(e9e7ba94139cab8458049198e375a14b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PixelPack03_Free/Tileset_63.asset using Guid(e9e7ba94139cab8458049198e375a14b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd356d236fa874761b3669b4fb41dcbb3') in 0.035447 seconds 
+  Import took 0.040986 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000285 seconds.
+  path: Assets/PixelPack03_Free/Tileset_13.asset
+  artifactKey: Guid(0c77c67373de270429206e494486071e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PixelPack03_Free/Tileset_13.asset using Guid(0c77c67373de270429206e494486071e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6373c73705dadd315de8b0c9d62608ad') in 0.060145 seconds 
+  Import took 0.068319 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000582 seconds.
+  path: Assets/PixelPack03_Free/Tileset_19.asset
+  artifactKey: Guid(5d726bf609a508b47b84e2efb091212e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PixelPack03_Free/Tileset_19.asset using Guid(5d726bf609a508b47b84e2efb091212e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6f3558fa5bd2aa884535d81969b16321') in 0.053314 seconds 
+  Import took 0.064199 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000156 seconds.
+  path: Assets/PixelPack03_Free/Tileset_23.asset
+  artifactKey: Guid(3706e0c5c94fc3c4f8575264f606b1dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PixelPack03_Free/Tileset_23.asset using Guid(3706e0c5c94fc3c4f8575264f606b1dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ad932126397c7010bc7ac504afb17018') in 0.038255 seconds 
+  Import took 0.050043 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 21.456722 seconds.
+  path: Assets/PixelPack03_Free/Tileset_72.asset
+  artifactKey: Guid(fa44ac0e3f7b69c42a4bcb8d41744549) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PixelPack03_Free/Tileset_72.asset using Guid(fa44ac0e3f7b69c42a4bcb8d41744549) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bb1b80571f20545039f93736ccc85f0a') in 0.025384 seconds 
+  Import took 0.030804 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000253 seconds.
+  path: Assets/PixelPack03_Free/Tileset_73.asset
+  artifactKey: Guid(329708bd3d01f514a85c610373843103) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PixelPack03_Free/Tileset_73.asset using Guid(329708bd3d01f514a85c610373843103) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '21765b41f9a95be70441e871337c9492') in 0.021265 seconds 
+  Import took 0.026150 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000341 seconds.
+  path: Assets/PixelPack03_Free/Tileset_81.asset
+  artifactKey: Guid(26c438e4bf6baf64d970dec9ec620778) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PixelPack03_Free/Tileset_81.asset using Guid(26c438e4bf6baf64d970dec9ec620778) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '377ea1f59e74f3149a6412159d6f4456') in 0.035211 seconds 
+  Import took 0.046178 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000307 seconds.
+  path: Assets/PixelPack03_Free/Tileset_84.asset
+  artifactKey: Guid(78f63302754015f40b3a96de732a47c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PixelPack03_Free/Tileset_84.asset using Guid(78f63302754015f40b3a96de732a47c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9d6c3dddca879b04c3560f8c7b6470a5') in 0.027865 seconds 
+  Import took 0.033588 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000320 seconds.
+  path: Assets/PixelPack03_Free/Tileset_85.asset
+  artifactKey: Guid(f73b5f87fe07f7d47ba7fffb60cde51a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PixelPack03_Free/Tileset_85.asset using Guid(f73b5f87fe07f7d47ba7fffb60cde51a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c3174eb08c10491b8dca4c46154086bb') in 0.046423 seconds 
+  Import took 0.053209 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000287 seconds.
+  path: Assets/PixelPack03_Free/Tileset_79.asset
+  artifactKey: Guid(d006cc6eb25a97d419d608a7b56c4ede) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PixelPack03_Free/Tileset_79.asset using Guid(d006cc6eb25a97d419d608a7b56c4ede) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'adec0a43a0f5d7bb35c0ca83756c3ca3') in 0.034517 seconds 
+  Import took 0.043080 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000300 seconds.
+  path: Assets/PixelPack03_Free/Tileset_75.asset
+  artifactKey: Guid(974a604a543567d419c03e5a89f2a9ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PixelPack03_Free/Tileset_75.asset using Guid(974a604a543567d419c03e5a89f2a9ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2d8a5d4f0dd60c541463664a7a7a9a6b') in 0.036234 seconds 
+  Import took 0.041073 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000304 seconds.
+  path: Assets/PixelPack03_Free/Tileset_74.asset
+  artifactKey: Guid(2cfd057dacd840b45970b363e22a986c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PixelPack03_Free/Tileset_74.asset using Guid(2cfd057dacd840b45970b363e22a986c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8506564fae0aa819f03caa5c52a997ff') in 0.036969 seconds 
+  Import took 0.047021 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000552 seconds.
+  path: Assets/PixelPack03_Free/Tileset_80.asset
+  artifactKey: Guid(f40e9f677e2278848acd4783cd00debe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PixelPack03_Free/Tileset_80.asset using Guid(f40e9f677e2278848acd4783cd00debe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '096176045d5a798681d7ae23ba358a13') in 0.039616 seconds 
+  Import took 0.046030 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000444 seconds.
+  path: Assets/PixelPack03_Free/Tileset_77.asset
+  artifactKey: Guid(c8ac243cc48556b42b377071a0ce72a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PixelPack03_Free/Tileset_77.asset using Guid(c8ac243cc48556b42b377071a0ce72a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f04090797d136fa02d0acebcea0c3390') in 0.036850 seconds 
+  Import took 0.045078 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000271 seconds.
+  path: Assets/PixelPack03_Free/Tileset_82.asset
+  artifactKey: Guid(eb9ea7a5355441443b6ce41f45a73a78) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PixelPack03_Free/Tileset_82.asset using Guid(eb9ea7a5355441443b6ce41f45a73a78) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '95c2f74e465a84df6a4bf51a2d38ca5c') in 0.035206 seconds 
+  Import took 0.041819 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000338 seconds.
+  path: Assets/PixelPack03_Free/Tileset_83.asset
+  artifactKey: Guid(20efe13234d41b140b5f786a86857455) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PixelPack03_Free/Tileset_83.asset using Guid(20efe13234d41b140b5f786a86857455) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8545b7eda0daed20bc6ccdb6a42de500') in 0.038781 seconds 
+  Import took 0.047465 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000306 seconds.
+  path: Assets/PixelPack03_Free/Tileset_78.asset
+  artifactKey: Guid(222b664c15f233640b010186241f9250) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PixelPack03_Free/Tileset_78.asset using Guid(222b664c15f233640b010186241f9250) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3a4bba13380f0ea15dfb1159dd5d35e9') in 0.041752 seconds 
+  Import took 0.049175 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000310 seconds.
+  path: Assets/PixelPack03_Free/Tileset_76.asset
+  artifactKey: Guid(062fd29eb4e56774d841fadc11d919aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PixelPack03_Free/Tileset_76.asset using Guid(062fd29eb4e56774d841fadc11d919aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '09c744f87d9cead9ec8f4393e203fe7d') in 0.042332 seconds 
+  Import took 0.048074 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.013830 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 1.03 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.823 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1824ms)
+		BeginReloadAssembly (154ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (8ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (49ms)
+		EndReloadAssembly (1572ms)
+			LoadAssemblies (163ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (579ms)
+			ReleaseScriptCaches (2ms)
+			RebuildScriptCaches (92ms)
+			SetupLoadedEditorAssemblies (578ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (12ms)
+				SetLoadedEditorAssemblies (4ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (132ms)
+				ProcessInitializeOnLoadAttributes (405ms)
+				ProcessInitializeOnLoadMethodAttributes (14ms)
+				AfterProcessingInitializeOnLoad (9ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (17ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 29.35 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2088 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 95.9 MB.
+System memory in use after: 96.0 MB.
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 2547.
+Total: 22.090400 ms (FindLiveObjects: 0.563700 ms CreateObjectMapping: 0.294300 ms MarkObjects: 21.140900 ms  DeleteObjects: 0.080900 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.006852 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.56 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.481 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1482ms)
+		BeginReloadAssembly (138ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (7ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (46ms)
+		EndReloadAssembly (1271ms)
+			LoadAssemblies (120ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (493ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (50ms)
+			SetupLoadedEditorAssemblies (485ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (7ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (97ms)
+				ProcessInitializeOnLoadAttributes (367ms)
+				ProcessInitializeOnLoadMethodAttributes (6ms)
+				AfterProcessingInitializeOnLoad (7ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (13ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.49 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2088 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 95.9 MB.
+System memory in use after: 96.0 MB.
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 2550.
+Total: 4.308100 ms (FindLiveObjects: 0.270300 ms CreateObjectMapping: 0.094200 ms MarkObjects: 3.914900 ms  DeleteObjects: 0.026500 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.020371 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 1.93 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  6.581 seconds
+Domain Reload Profiling:
+	ReloadAssembly (6604ms)
+		BeginReloadAssembly (876ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (83ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (1ms)
+			CreateAndSetChildDomain (455ms)
+		EndReloadAssembly (5557ms)
+			LoadAssemblies (294ms)
+			RebuildTransferFunctionScriptingTraits (1ms)
+			SetupTypeCache (457ms)
+			ReleaseScriptCaches (2ms)
+			RebuildScriptCaches (52ms)
+			SetupLoadedEditorAssemblies (4683ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (11ms)
+				SetLoadedEditorAssemblies (2ms)
+				RefreshPlugins (2ms)
+				BeforeProcessingInitializeOnLoad (112ms)
+				ProcessInitializeOnLoadAttributes (4537ms)
+				ProcessInitializeOnLoadMethodAttributes (10ms)
+				AfterProcessingInitializeOnLoad (9ms)
+				EditorAssembliesLoaded (1ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (26ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.51 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2088 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 95.9 MB.
+System memory in use after: 96.1 MB.
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 2553.
+Total: 9.578500 ms (FindLiveObjects: 2.826000 ms CreateObjectMapping: 0.218100 ms MarkObjects: 6.377000 ms  DeleteObjects: 0.155700 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 4014.175971 seconds.
+  path: ProjectSettings/TagManager.asset
+  artifactKey: Guid(00000000000000003000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing ProjectSettings/TagManager.asset using Guid(00000000000000003000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '184dd8e22c9919fe1c87579a3e6d7d7c') in 0.060348 seconds 
+  Import took 0.077139 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.030338 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 1.13 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.660 seconds
+Domain Reload Profiling:
+	ReloadAssembly (2665ms)
+		BeginReloadAssembly (527ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (37ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (154ms)
+		EndReloadAssembly (2012ms)
+			LoadAssemblies (309ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (640ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (51ms)
+			SetupLoadedEditorAssemblies (933ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (28ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (381ms)
+				ProcessInitializeOnLoadAttributes (508ms)
+				ProcessInitializeOnLoadMethodAttributes (6ms)
+				AfterProcessingInitializeOnLoad (8ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (12ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.55 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2088 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 96.0 MB.
+System memory in use after: 96.1 MB.
+
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 2556.
+Total: 4.670900 ms (FindLiveObjects: 0.273900 ms CreateObjectMapping: 0.109500 ms MarkObjects: 3.605100 ms  DeleteObjects: 0.680700 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.011638 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.68 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.891 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1892ms)
+		BeginReloadAssembly (567ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (10ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (108ms)
+		EndReloadAssembly (1104ms)
+			LoadAssemblies (451ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (360ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (53ms)
+			SetupLoadedEditorAssemblies (450ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (10ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (102ms)
+				ProcessInitializeOnLoadAttributes (324ms)
+				ProcessInitializeOnLoadMethodAttributes (6ms)
+				AfterProcessingInitializeOnLoad (7ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (12ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.52 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2088 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 96.0 MB.
+System memory in use after: 96.1 MB.
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 2559.
+Total: 4.151900 ms (FindLiveObjects: 0.257600 ms CreateObjectMapping: 0.092300 ms MarkObjects: 3.273500 ms  DeleteObjects: 0.527500 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
